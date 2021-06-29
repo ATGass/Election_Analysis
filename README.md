@@ -17,3 +17,4 @@ The election audit was conducted to find the results for the different groupings
 * Diana Debette was the candidate with the most votes with 272,892 votes and 73.8% of all the votes
 
 ## Audit Summary
+The script will need to change as the variables/column headers change. That means that if there are more than one candidate then the candidate script for this election will need to be replicated and applied to the additional columns. Another variable that might be helpful would be a date variable that would allow an analyst to understand voter turnout in the specific counties over time. 
